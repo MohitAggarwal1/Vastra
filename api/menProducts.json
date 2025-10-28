@@ -1,0 +1,162 @@
+[
+    {
+        "productId": "m1",
+        "brand": "Adidas",
+        "name": "Men Formal Green Shirt",
+        "imageSrc": "./img/men/m1.avif",
+        "price": 1599,
+        "rating": 4,
+        "category": "men",
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "productId": "m2",
+        "brand": "Pantaloons",
+        "name": "Men Floral Slim Fit Shirt",
+        "imageSrc": "./img/men/m2.avif",
+        "price": 1199,
+        "rating": 4,
+        "category": "men",
+        "images": ["m2","m3","m1","m4"]
+    },
+    {
+        "productId": "m3",
+        "brand": "Nike",
+        "name": "Men Basic Chequered Shirt",
+        "imageSrc": "./img/men/m3.avif",
+        "price": 2199,
+        "rating": 4,
+        "category": "men",
+        "images": ["m3","m2","m4","m1"]
+    },
+    {
+        "productId": "m4",
+        "brand": "Raymond",
+        "name": "Men Regular Fit Shirt",
+        "imageSrc": "./img/men/m4.avif",
+        "price": 1499,
+        "rating": 4,
+        "category": "men",
+        "images": ["m4","m1","m3","m2"]
+    },
+    {
+        "productId": "m5",
+        "brand": "Adidas",
+        "name": "Men Chequered Shirt",
+        "imageSrc": "./img/men/m5.avif",
+        "price": 999,
+        "rating": 4,
+        "category": "men",
+        "images": ["m5","m2","m3","m1"]
+    },
+    {
+        "productId": "m6",
+        "brand": "Calvin Klein",
+        "name": "Men Printed T-Shirt",
+        "imageSrc": "./img/men/m6.avif",
+        "price": 1299,
+        "rating": 4,
+        "category": "men",
+        "images": ["m6","m9","m10","m4"]
+    },
+    {
+        "productId": "m7",
+        "brand": "H&M",
+        "name": "Men Blazer Pant Set",
+        "imageSrc": "./img/men/m7.avif",
+        "price": 2499,
+        "rating": 4,
+        "category": "men",
+        "images": ["m7","m11","m14","m1"]
+    },
+    {
+        "productId": "m8",
+        "brand": "Biba",
+        "name": "Men Traditional Kurta",
+        "imageSrc": "./img/men/m8.avif",
+        "price": 1999,
+        "rating": 4,
+        "category": "men",
+        "images": ["m8","m16","m15","m14"]
+    },
+    {
+        "productId": "m9",
+        "brand": "Zara",
+        "name": "Men Printed Shirt",
+        "imageSrc": "./img/men/m9.avif",
+        "price": 1499,
+        "rating": 4,
+        "category": "men",
+        "images": ["m9","m2","m10","m11"]
+    },
+    {
+        "productId": "m10",
+        "brand": "Nike",
+        "name": "Men Printed T-Shirt",
+        "imageSrc": "./img/men/m10.avif",
+        "price": 799,
+        "rating": 4,
+        "category": "men",
+        "images": ["m10","m9","m2","m11"]
+    },
+    {
+        "productId": "m11",
+        "brand": "Monte Carlo",
+        "name": "Men Shirt & Trousers Set",
+        "imageSrc": "./img/men/m11.avif",
+        "price": 2999,
+        "rating": 4,
+        "category": "men",
+        "images": ["m11","m2","m9","m10"]
+    },
+    {
+        "productId": "m12",
+        "brand": "Max Fashion",
+        "name": "Men Hooded Jacket",
+        "imageSrc": "./img/men/m12.avif",
+        "price": 2499,
+        "rating": 4,
+        "category": "men",
+        "images": ["m12","m15","m13","m14"]
+    },
+    {
+        "productId": "m13",
+        "brand": "Park Avenue",
+        "name": "Men Printed Sweatshirt",
+        "imageSrc": "./img/men/m13.avif",
+        "price": 2699,
+        "rating": 4,
+        "category": "men",
+        "images": ["m13","m12","m15","m14"]
+    },
+    {
+        "productId": "m14",
+        "brand": "Puma",
+        "name": "Men Denim Jacket",
+        "imageSrc": "./img/men/m14.avif",
+        "price": 1999,
+        "rating": 4,
+        "category": "men",
+        "images": ["m15","m12","m13","m15"]
+    },
+    {
+        "productId": "m15",
+        "brand": "Pantaloons",
+        "name": "Men Printed Jacket",
+        "imageSrc": "./img/men/m15.avif",
+        "price": 2999,
+        "rating": 4,
+        "category": "men",
+        "images": ["m15","m12","m13","m14"]
+    },
+    {
+        "productId": "m16",
+        "brand": "Adidas",
+        "name": "Men Printed Slim Fit Shirt",
+        "imageSrc": "./img/men/m16.avif",
+        "price": 1799,
+        "rating": 4,
+        "category": "men",
+        "images": ["m16","m8","m14","m15"]
+    }
+]

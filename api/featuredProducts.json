@@ -1,0 +1,82 @@
+[
+    {
+        "category": "women",
+        "productId": "w1",
+        "brand": "Zara",
+        "name": "Women Printed Dress",
+        "imageSrc": "./img/women/w1.avif",
+        "price": 1799,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    },
+    {
+        "category": "men",
+        "productId": "m1",
+        "brand": "Adidas",
+        "name": "Men Formal Green Shirt",
+        "imageSrc": "./img/men/m1.avif",
+        "price": 1599,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "category": "women",
+        "productId": "w2",
+        "brand": "Allen Solly",
+        "name": "Women Fit & Flare Dress",
+        "imageSrc": "./img/women/w2.avif",
+        "price": 1699,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    },
+    {
+        "category": "men",
+        "productId": "m2",
+        "brand": "Pantaloons",
+        "name": "Men Floral Slim Fit Shirt",
+        "imageSrc": "./img/men/m2.avif",
+        "price": 1199,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "category": "men",
+        "productId": "m3",
+        "brand": "Nike",
+        "name": "Men Basic Chequered Shirt",
+        "imageSrc": "./img/men/m3.avif",
+        "price": 2199,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "category": "women",
+        "productId": "w3",
+        "brand": "Max Fashion",
+        "name": "Women Anarkali Suit",
+        "imageSrc": "./img/women/w3.avif",
+        "price": 1999,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    },
+    {
+        "category": "men",
+        "productId": "m4",
+        "brand": "Raymond",
+        "name": "Men Regular Fit Shirt",
+        "imageSrc": "./img/men/m4.avif",
+        "price": 1499,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "category": "women",
+        "productId": "w4",
+        "brand": "H&M",
+        "name": "Women Georgette Dress",
+        "imageSrc": "./img/women/w4.avif",
+        "price": 1399,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    }
+]

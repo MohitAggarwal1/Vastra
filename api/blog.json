@@ -1,0 +1,56 @@
+[
+    {
+        "blogId": "blog1",
+        "title": "Top 10 Summer Fashion Trends of 2024",
+        "description": "Discover the hottest trends this summer! From vibrant colors to sustainable fabrics, our fashion experts break down the must-have items to keep you stylish in the heat. Learn how to mix and match for the perfect look!",
+        "imageSrc": "./img/blog/blog1.avif",
+        "author": "Sriti Jha",
+        "date": "June 4, 2024",
+        "tag": "Hot Picks"
+    },
+    {
+        "blogId": "blog2",
+        "title": "How to Choose the Perfect Gift",
+        "description": "Finding the right gift can be challenging. Our ultimate guide will help you select thoughtful and unique gifts for birthdays, anniversaries, holidays, and more. Make every gift unforgettable with our expert tips!",
+        "imageSrc": "./img/blog/blog2.avif",
+        "author": "Dev Kumar",
+        "date": "Aug 29, 2024",
+        "tag": "Trending"
+    },
+    {
+        "blogId": "blog3",
+        "title": "The Ultimate Guide to Sustainable Shopping",
+        "description": "Join the movement towards eco-friendly living with our guide to sustainable shopping. Learn about sustainable brands, tips for reducing your carbon footprint, and making eco-conscious choices without compromising style.",
+        "imageSrc": "./img/blog/blog3.avif",
+        "author": "John Williams",
+        "date": "Sept 18, 2024",
+        "tag": "Eco-friendly"
+    },
+    {
+        "blogId": "blog4",
+        "title": "How to Style Your Wardrobe on a Budget",
+        "description": "Looking stylish doesn’t have to break the bank. Our fashion gurus share their secrets for creating a chic wardrobe on a budget. Learn how to shop smart, find deals, and mix high and low fashion for a polished look.",
+        "imageSrc": "./img/blog/blog4.avif",
+        "author": "Suresh Raina",
+        "date": "Aug 5, 2024",
+        "tag": "Affordable Fashion"
+    },
+    {
+        "blogId": "blog5",
+        "title": "How to Find Your Personal Style",
+        "description": "Finding your personal style can be a rewarding journey. Our comprehensive guide will help you explore different fashion styles, identify what you truly love, and build a wardrobe that perfectly reflects your unique personality.",
+        "imageSrc": "./img/blog/blog5.avif",
+        "author": "Matt Henry",
+        "date": "Oct 10, 2024",
+        "tag": "Authentic You"
+    },
+    {
+        "blogId": "blog6",
+        "title": "Wardrobe Essentials: The Must-Have Pieces",
+        "description": "Build a timeless wardrobe with our comprehensive list of essential pieces. From classic jeans to versatile blazers, discover the key items that will keep your style fresh and adaptable year-round.",
+        "imageSrc": "./img/blog/blog6.avif",
+        "author": "Glenn Philips",
+        "date": "Sept 12, 2024",
+        "tag": "Basics"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "productId": "w1",
+        "category": "women",
+        "brand": "Zara",
+        "name": "Women Printed Dress",
+        "imageSrc": "./img/women/w1.avif",
+        "price": 1799,
+        "rating": 4,
+        "images": ["w1","w11","w13","w4"]
+    },
+    {
+        "productId": "w2",
+        "category": "women",
+        "brand": "Allen Solly",
+        "name": "Women Fit & Flare Dress",
+        "imageSrc": "./img/women/w2.avif",
+        "price": 1699,
+        "rating": 4,
+        "images": ["w2","w4","w1","w11"]
+    },
+    {
+        "productId": "w3",
+        "category": "women",
+        "brand": "Max Fashion",
+        "name": "Women Anarkali Suit",
+        "imageSrc": "./img/women/w3.avif",
+        "price": 1999,
+        "rating": 4,
+        "images": ["w3","w8","w1","w10"]
+    },
+    {
+        "productId": "w4",
+        "category": "women",
+        "brand": "H&M",
+        "name": "Women Georgette Dress",
+        "imageSrc": "./img/women/w4.avif",
+        "price": 1399,
+        "rating": 4,
+        "images": ["w4","w11","w13","w2"]
+    },
+    {
+        "productId": "w5",
+        "category": "women",
+        "brand": "Levis",
+        "name": "Women Denim Jacket",
+        "imageSrc": "./img/women/w5.avif",
+        "price": 2499,
+        "rating": 4,
+        "images": ["w5","w9","w6","w10"]
+    },
+    {
+        "productId": "w6",
+        "category": "women",
+        "brand": "Calvin Klein",
+        "name": "Women Retro Jacket",
+        "imageSrc": "./img/women/w6.avif",
+        "price": 2199,
+        "rating": 4,
+        "images": ["w6","w10","w5","w9"]
+    },
+    {
+        "productId": "w7",
+        "category": "women",
+        "brand": "Lifestyle",
+        "name": "Women Marzina Dress",
+        "imageSrc": "./img/women/w7.avif",
+        "price": 999,
+        "rating": 4,
+        "images": ["w7","w4","w13","w12"]
+    },
+    {
+        "productId": "w8",
+        "category": "women",
+        "brand": "Biba",
+        "name": "Women Long Kurti",
+        "imageSrc": "./img/women/w8.avif",
+        "price": 1599,
+        "rating": 4,
+        "images": ["w8","w1","w3","w10"]
+    },
+    {
+        "productId": "w9",
+        "category": "women",
+        "brand": "Zara",
+        "name": "Women Hooded Sweatshirt",
+        "imageSrc": "./img/women/w9.avif",
+        "price": 2399,
+        "rating": 4,
+        "images": ["w9","w5","w6","w13"]
+    },
+    {
+        "productId": "w10",
+        "category": "women",
+        "brand": "Diesel",
+        "name": "Women Embroidered Kurti",
+        "imageSrc": "./img/women/w10.avif",
+        "price": 1899,
+        "rating": 4,
+        "images": ["w10","w1","w3","w8"]
+    },
+    {
+        "productId": "w11",
+        "category": "women",
+        "brand": "Westside",
+        "name": "Women A-Line Gown",
+        "imageSrc": "./img/women/w11.avif",
+        "price": 1599,
+        "rating": 4,
+        "images": ["w11","w2","w4","w13"]
+    },
+    {
+        "productId": "w12",
+        "category": "women",
+        "brand": "Pantaloons",
+        "name": "Women Maxi Dress",
+        "imageSrc": "./img/women/w12.avif",
+        "price": 1999,
+        "rating": 4,
+        "images": ["w12","w2","w7","w15"]
+    },
+    {
+        "productId": "w13",
+        "category": "women",
+        "brand": "Mark & Spencer",
+        "name": "Women T-Shirt Maxi Dress",
+        "imageSrc": "./img/women/w13.avif",
+        "price": 799,
+        "rating": 4,
+        "images": ["w13","w2","w4","w1"]
+    },
+    {
+        "productId": "w14",
+        "category": "women",
+        "brand": "Aurelia",
+        "name": "Women Floral Print Saree",
+        "imageSrc": "./img/women/w14.avif",
+        "price": 2499,
+        "rating": 4,
+        "images": ["w14","w15","w12","w3"]
+    },
+    {
+        "productId": "w15",
+        "category": "women",
+        "brand": "Zara",
+        "name": "Women Puffy Sleeves Gown",
+        "imageSrc": "./img/women/w15.avif",
+        "price": 3999,
+        "rating": 4,
+        "images": ["w15","w12","w8","w16"]
+    },
+    {
+        "productId": "w16",
+        "category": "women",
+        "brand": "H&M",
+        "name": "Women Embroidered Jump Suit",
+        "imageSrc": "./img/women/w16.avif",
+        "price": 2999,
+        "rating": 4,
+        "images": ["w16","w15","w3","w8"]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "productId": "w5",
+        "category": "women",
+        "brand": "Levis",
+        "name": "Women Denim Jacket",
+        "imageSrc": "./img/women/w5.avif",
+        "price": 2499,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    },
+    {
+        "productId": "m5",
+        "category": "men",
+        "brand": "Adidas",
+        "name": "Men Chequered Shirt",
+        "imageSrc": "./img/men/m5.avif",
+        "price": 999,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "productId": "w8",
+        "category": "women",
+        "brand": "Biba",
+        "name": "Women Long Kurti",
+        "imageSrc": "./img/women/w8.avif",
+        "price": 1599,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    },
+    {
+        "productId": "m8",
+        "category": "men",
+        "brand": "Biba",
+        "name": "Men Traditional Kurta",
+        "imageSrc": "./img/men/m8.avif",
+        "price": 1999,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "productId": "m15",
+        "category": "men",
+        "brand": "Pantaloons",
+        "name": "Men Printed Jacket",
+        "imageSrc": "./img/men/m15.avif",
+        "price": 2999,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "productId": "w11",
+        "category": "women",
+        "brand": "Westside",
+        "name": "Women A-Line Gown",
+        "imageSrc": "./img/women/w11.avif",
+        "price": 1599,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    },
+    {
+        "productId": "m16",
+        "category": "men",
+        "brand": "Adidas",
+        "name": "Men Printed Slim Fit Shirt",
+        "imageSrc": "./img/men/m16.avif",
+        "price": 1799,
+        "rating": 4,
+        "images": ["m1","m2","m3","m4"]
+    },
+    {
+        "productId": "w15",
+        "category": "women",
+        "brand": "Zara",
+        "name": "Women Puffy Sleeves Gown",
+        "imageSrc": "./img/women/w15.avif",
+        "price": 3999,
+        "rating": 4,
+        "images": ["w1","w2","w3","w4"]
+    }
+]
