@@ -1,4 +1,4 @@
-# Vastra - Clothing [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://jyotiaggarwal2.github.io/vastra-clothing/)
+# Vastra - Clothing [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://mohitaggarwal1.github.io/Vastra/)
 
 ![Vastra - Clothing](./img/misc/index.png)
 
@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-Check out the live website [here](https://jyotiaggarwal2.github.io/vastra-clothing/).
+Check out the live website [here](https://mohitaggarwal1.github.io/Vastra/).
 
 ## Introduction
 
@@ -72,7 +72,7 @@ Follow these instructions to set up the project on your local machine.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/JyotiAggarwal2/vastra-clothing.git
+    git clone https://github.com/MohitAggarwal1/Vastra.git
     ```
 
 2. Navigate to the project directory:
@@ -103,7 +103,7 @@ Follow these instructions to set up the project on your local machine.
 
 ## Contact
 
-- **GitHub:** [JyotiAggarwal2](https://github.com/JyotiAggarwal2)
+- **GitHub:** [MohitAggarwal1](https://github.com/MohitAggarwal1)
 
 ## Acknowledgements
 
